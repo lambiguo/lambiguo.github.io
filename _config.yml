@@ -26,7 +26,7 @@ github_username:  lambiguo
 markdown: kramdown
 #theme: minima
 #theme: jekyll-theme-time-machine
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
