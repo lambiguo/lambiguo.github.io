@@ -24,8 +24,9 @@ github_username:  lambiguo
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 #theme: jekyll-theme-time-machine
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
