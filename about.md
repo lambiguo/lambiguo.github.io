@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I have been trying to write a [https://lambiguosideas.wordpress.com](blog) and failing miserably. I just don't feel like writing most of the time and I can't nail a balance between dumping my stream of consciousness and researching posts.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Then, I've seen the experiment of [https://twitter.com/visakanv](visakanv) with [http://visakanv.com/1000/](1000 words vomits) and thought I'd try to replicate that.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hence, I'll try to write here one post a day from now on. This will be accessible publicly online. I don't expect anyone to actually read this, I'm doing it for myself.
 
-
-[jekyll-organization]: https://github.com/jekyll
