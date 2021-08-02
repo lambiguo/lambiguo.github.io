@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3: Human body modeling"
-date:   2021-07-31 18:17:05 +0100
+date:   2021-08-01 18:17:05 +0100
 categories:
 ---
 
